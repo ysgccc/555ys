@@ -1,5 +1,5 @@
 .popup {
-	background: #343434;
+	background: #323236;
 	color: hsla(0, 0%, 100%, .87);
 	overflow: inherit;
 }
@@ -48,7 +48,7 @@
 	border-radius: 18px 18px 0 0
 }
 .popup::after {
-	background: #343434;
+	background: #323236;
 }
 
 .popup-header {
